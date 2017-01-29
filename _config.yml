@@ -1,2 +1,3 @@
 name:Corporate Hawk,full time bird
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
